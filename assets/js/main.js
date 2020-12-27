@@ -41,7 +41,7 @@ $(function ($) {
     var $typed = $("#typed");
     if ($typed.length > 0) {
       $typed.typed({
-        strings: ["Web Geliştiririm", "Web Development", "UI/UX Design"],
+        strings: ["Web Design", "Web Development", "Android Development"],
         stringsElement: null,
         typeSpeed: 70,
         startDelay: 150,
