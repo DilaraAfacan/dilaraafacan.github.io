@@ -7,6 +7,8 @@ $(function ($) {
       $(".my-navbar").toggleClass("show");
       $(".mainmenu-area").toggleClass("show");
     });
+    
+    $('body > div.toggle-icon').click()
 
     $("#nav-icon3").click(function () {
       $(this).toggleClass("open");
